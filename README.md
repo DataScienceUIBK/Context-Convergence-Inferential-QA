@@ -87,8 +87,8 @@ This is the easiest and recommended way.
 Follow the following steps:
 
 ```bash
-git clone https://github.com/DataScienceUIBK/Pretraining-Exposure-Popularity
-cd Pretraining-Exposure-Popularity
+git clone https://github.com/DataScienceUIBK/Context-Convergence-Inferential-QA
+cd Context-Convergence-Inferential-QA
 pip install termcolor
 ```
 
@@ -109,7 +109,7 @@ Use this only if you want to regenerate the dataset yourself.
 
 #### Step 1 — Complete setup first
 
-Before rebuilding anything, finish all following steps:
+Before rebuilding anything, finish all the following steps:
 
  
 
@@ -121,8 +121,8 @@ Then:
   
 
 ```bash
-git clone https://github.com/DataScienceUIBK/Pretraining-Exposure-Popularity
-cd Pretraining-Exposure-Popularity
+git clone https://github.com/DataScienceUIBK/Context-Convergence-Inferential-QA
+cd Context-Convergence-Inferential-QA
 pip install -r requirements.txt
 ```
 
