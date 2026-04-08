@@ -1,6 +1,6 @@
 <a href=""><img src="https://img.shields.io/static/v1?label=Paper&message=ACM%20SIGIR&color=green&logo=arXiv"></a> <a href="https://opensource.org/license/mit"><img src="https://img.shields.io/static/v1?label=License&message=MIT&color=red"></a>
 
-# Context Convergence for Inferential Question Answering
+# Context Convergence Improves Answering Inferential Questions
 
 🧠 **Why do LLMs struggle with inferential questions?**
 Because not all context is equally helpful—some sentences guide reasoning, others just add noise.
