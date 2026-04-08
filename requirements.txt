@@ -1,0 +1,3 @@
+termcolor
+-U transformers
+-U accelerate
