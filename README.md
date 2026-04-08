@@ -94,7 +94,7 @@ pip install termcolor
 
 You do **not** need to recreate the dataset for the experiments.
 
-#### Step 3 — Run the experiments
+#### Step 2 — Run the experiments
 
 ```bash
 python experiments/convergence_vs_cosine.py
