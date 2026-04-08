@@ -89,15 +89,7 @@ Follow the following steps:
 ```bash
 git clone https://github.com/DataScienceUIBK/Pretraining-Exposure-Popularity
 cd Pretraining-Exposure-Popularity
-pip install -r requirements.txt
-```
-
-#### Step 2 — Use the prepared dataset
-
-Use:
-
-```text
-dataset/dataset_final.tar.gz
+pip install termcolor
 ```
 
 You do **not** need to recreate the dataset for the experiments.
