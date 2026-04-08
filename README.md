@@ -87,7 +87,7 @@ This is the easiest and recommended way.
 Follow the following steps:
 
 ```bash
-git clone https://github.com/DataScienceUIBK/Context-Convergence-Inferential-QA
+git clone https://github.com/DataScienceUIBK/Context-Convergence-Inferential-QA.git
 cd Context-Convergence-Inferential-QA
 pip install termcolor
 ```
@@ -121,7 +121,7 @@ Then:
   
 
 ```bash
-git clone https://github.com/DataScienceUIBK/Context-Convergence-Inferential-QA
+git clone https://github.com/DataScienceUIBK/Context-Convergence-Inferential-QA.git
 cd Context-Convergence-Inferential-QA
 pip install -r requirements.txt
 ```
