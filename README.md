@@ -1,4 +1,4 @@
-<a href=""><img src="https://img.shields.io/static/v1?label=Paper&message=ACM%20SIGIR&color=green&logo=arXiv"></a> <a href="https://opensource.org/license/mit"><img src="https://img.shields.io/static/v1?label=License&message=MIT&color=red"></a>
+<a href="https://doi.org/10.1145/3805712.3809848"><img src="https://img.shields.io/static/v1?label=Paper&message=ACM%20SIGIR&color=green&logo=arXiv"></a> <a href="https://opensource.org/license/mit"><img src="https://img.shields.io/static/v1?label=License&message=MIT&color=red"></a>
 
 # Context Convergence Improves Answering Inferential Questions
 
@@ -174,6 +174,22 @@ python experiments/order.py
 ## 📚 Citation
 
 ```bibtex
+@inproceedings{10.1145/3805712.3809848,
+    author = {Mozafari, Jamshid and Piryani, Bhawna and Jatowt, Adam},
+    title = {Context Convergence Improves Answering Inferential Questions},
+    year = {2026},
+    isbn = {9798400725999},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3805712.3809848},
+    doi = {10.1145/3805712.3809848},
+    booktitle = {Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+    pages = {4010–4015},
+    numpages = {6},
+    keywords = {inferential question answering, hints, retrieval-augmented reasoning, reasoning, retrieval-augmented generation, large language models, convergence},
+    location = {Australia},
+    series = {SIGIR '26}
+}
 ```
 
 ## 📜 License
